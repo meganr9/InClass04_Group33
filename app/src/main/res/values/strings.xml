@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">InClass04_Group33</string>
+    <string name="news_source">Select News source</string>
+    <string name="get_news">Get News</string>
+    <string name="finish">Finish</string>
+    <string name="news_app_title">News App</string>
+
+    <string-array name="news_options">
+        <item>BBC</item>
+        <item>CNN</item>
+        <item>Buzzfeed</item>
+        <item>ESPN</item>
+        <item>Sky News</item>
+    </string-array>
+</resources>
